@@ -1,0 +1,13 @@
+title: Esther Eme # your name (or website title) here
+logo: "C:\Users\ESTHER EME\Pictures\Remini\WhatsApp Image 2023-07-22 at 22.01.47.jpg" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+I am a forward thinking data analyst with a passion for transforming raw data into actionable insights. I am dedicated to leveraging cutting-edge technologies and analytical skills to drive informed decision making.
+<br><br>
+Academic Background - With a solid foundation in finance and investment, holding Two Masters degrees in these domains and a BSc in Financial Accounting. My academic journey has equipped me with a unique blend of financial acumen and analytical prowess, providing a well-rounded perspective on data-driven solutions.
+<br><br>
+Professional Expertise- In addition to my academic achievements, I bring practical experience and expertise in the realms of Financial Technology (FinTech) and Blockchain. Possessing professional certifications in both areas, I am well-versed in the disruptive technologies that are shaping the future of finance. My work experience across various industries gives me a dynamic perspective on Leadership, being equipped with efficient Communication skills to facilitate Teamwork for Problem Solving.  <br><br>
+  <a href="www.linkedin.com/in/estheremeonuohas">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
